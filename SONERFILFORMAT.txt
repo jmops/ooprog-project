@@ -1,0 +1,11 @@
+<antall soner>
+<sone-id> <beskrivelse>
+<antall oppdrag i sone>
+<boligtype>
+<oppdrag-ID> <dato innlagt> <byggeaar> <brutto areal> <antall soverom> <pris>
+<saksbehandler>
+<eier>
+<Gate adresse>
+<post adresse>
+<beskrivelse>
+<om enebolig: areal> <om enebolig: selveid> 

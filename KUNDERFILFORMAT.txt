@@ -1,0 +1,9 @@
+<sisteNr>	<antall kunder i kunde-lista (kunder.size())>
+<navn>
+<kundeNr>
+<boligtype> [om leilighet: 0, om enebolig: 1]
+<sonenummere> [0..*]
+<telefonNr>
+<gateadresse>
+<postadresse>
+<epostadresse>
