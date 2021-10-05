@@ -2,21 +2,9 @@
 
 ## Gruppemedlemmer:
 
+### Jørgen Mo Opsahl
 ### Torstein Martinsheimen Egge
 
-Skole-epost: torsteeg@stud.ntnu.no
-
-Privat epost: tmaregge@gmail.com
-
-Telefon: 46654876
-
-### Jørgen Mo Opsahl
-
-Skole-epost: jorgemop@stud.ntnu.no
-
-Privat epost: mopsahl97@gmail.com
-
-Telefon: 94857468 
 
 ## Merknader:
 
